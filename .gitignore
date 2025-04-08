@@ -1,0 +1,5 @@
+*.ipynb
+parquet_data
+devcourse_material
+*.tgz
+*.conf
