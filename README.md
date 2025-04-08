@@ -1,5 +1,7 @@
 ## Learn Supaku In-Depth 😂
 - Subak 🍉
+- SPARK IN REVERSE IS KRAPS
+- EVERYONE SHOULD KNOW THIS
 ## TODOs
 - [x] Fake gen
 - [x] docker compose
@@ -27,5 +29,6 @@ This picture demonstrates that broadcast is autocast 😁
 ### test_submission.py result
 - Agg1 result
 ![Aggregation one](image.png)
+
 - Top spenders result
 ![alt text](image-1.png)
