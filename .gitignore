@@ -3,3 +3,6 @@ parquet_data
 devcourse_material
 *.tgz
 *.conf
+data/
+postgres_data/
+.env

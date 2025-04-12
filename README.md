@@ -1,11 +1,15 @@
 ## Learn Supaku In-Depth 😂
 - Subak 🍉
 - SPARK IN REVERSE IS KRAPS
-- EVERYONE SHOULD KNOW THIS
+- [Setup](https://medium.com/@dkalouris/setting-up-spark-using-docker-59db2d073487)
+- [Databricks dbgen](https://github.com/databricks/tpch-dbgen)
 ## TODOs
 - [x] Fake gen
 - [x] docker compose
-- [x] do complex ops
+- [x] do complex ops with fake
+- [ ] dw vs lh experiment
+    - this is where i left off
+![alt text](image-3.png)
 - [ ] volume QoL(local-jupyter-spark)
 - [ ] optimize
     - [ ] 100 fold data
